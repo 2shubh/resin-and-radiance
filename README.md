@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resin & Radiance — website
 
 A single-page website for Resin & Radiance: handmade resin bangles, jewellery,
@@ -143,3 +144,6 @@ src/
 
 Fonts are Eczar (headings) and Mukta (text) from Google Fonts. Both are
 designed for Latin and Devanagari, so Hindi text will match if you add it.
+=======
+# resin-and-radiance
+>>>>>>> 33c8e4ad57a8a78cc40dc1d223cb3f54e4c35a4f
