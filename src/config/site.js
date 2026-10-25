@@ -2,7 +2,7 @@
 // Change a value once and it updates everywhere.
 
 export const site = {
-  name: 'Resin & Radiance',
+  name: 'Pratibha',
   tagline: 'Handmade resin art, jewellery and custom gifts.',
 
   // WhatsApp number in international format: country code + number, no "+" or spaces.
@@ -24,15 +24,15 @@ export const site = {
 // Prefilled WhatsApp messages. {product} is replaced with the product name.
 export const messages = {
   product:
-    'Hi Resin & Radiance! I am interested in ordering {product}. Please share the price, available designs, customization options, and delivery details.',
+    'Hi Pratibha! I am interested in ordering {product}. Please share the price, available designs, customization options, and delivery details.',
   custom:
-    'Hi Resin & Radiance! I would like to discuss a customized resin art order. I have an idea in mind and would love to know the available options and pricing.',
-  contact: 'Hi Resin & Radiance! I would like to know more about your creations.',
+    'Hi Pratibha! I would like to discuss a customized resin art order. I have an idea in mind and would love to know the available options and pricing.',
+  contact: 'Hi Pratibha! I would like to know more about your creations.',
   order:
-    'Hi Resin & Radiance! I would like to place an order. Could you share the designs that are available right now?',
+    'Hi Pratibha! I would like to place an order. Could you share the designs that are available right now?',
   floating:
-    'Hi Resin & Radiance! I found your website and would love to know more about your handmade creations.',
-  faq: 'Hi Resin & Radiance! I have a question about your creations.',
+    'Hi Pratibha! I found your website and would love to know more about your handmade creations.',
+  faq: 'Hi Pratibha! I have a question about your creations.',
 }
 
 // Items in the top navigation, in order. Each id matches a section on the page.
