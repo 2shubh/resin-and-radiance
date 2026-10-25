@@ -61,7 +61,7 @@ export default function Navbar() {
           href="#home"
           onClick={anchorHandler('home', close)}
           className="rounded-md"
-          aria-label="Resin & Radiance, back to top"
+          aria-label="Pratibha Resin World, back to top"
         >
           <Logo />
         </a>

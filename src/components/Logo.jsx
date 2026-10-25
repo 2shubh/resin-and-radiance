@@ -19,13 +19,13 @@ export default function Logo({ light = false, className = '' }) {
   return (
     <span className={`inline-flex items-center gap-2.5 ${className}`}>
       <LogoMark className={`h-8 w-8 shrink-0 ${light ? 'text-gold' : 'text-burgundy'}`} />
-      <span
+      <spanResin
         className={`font-display text-[1.32rem] font-semibold leading-none tracking-[-0.01em] ${
           light ? 'text-ivory' : 'text-burgundy'
         }`}
       >
-        Resin <span className={light ? 'text-gold' : 'text-gold-ink'}>&amp;</span> Radiance
-      </span>
+         <span className={light ? 'text-gold' : 'text-gold-ink'}>Pratibha</span> Resin World
+      </spanResin>
     </span>
   )
 }
